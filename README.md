@@ -32,10 +32,10 @@
   <a href="https://github.com/mahin00r">
     <img src="https://img.shields.io/badge/GitHub-mahin00r-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Uncomment and fill these in when ready (see CUSTOMIZE.md):
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/mahinoorrahman/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- Uncomment and fill this in when ready (see CUSTOMIZE.md):
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
