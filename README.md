@@ -20,6 +20,9 @@
 
 <!-- SECTION: SOCIAL / CONTACT BADGES -->
 <div align="center">
+  <a href="https://mahin00r.github.io">
+    <img src="https://img.shields.io/badge/Website-mahin00r.github.io-764BA2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://x.com/hi_mahinoor">
     <img src="https://img.shields.io/badge/X_(Twitter)-@hi__mahinoor-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
