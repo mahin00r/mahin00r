@@ -130,6 +130,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/mahin00r/careerbuddy/pull/1) in [mahin00r/careerbuddy](https://github.com/mahin00r/careerbuddy)
+2. 💪 Opened PR [#1](https://github.com/mahin00r/careerbuddy/pull/1) in [mahin00r/careerbuddy](https://github.com/mahin00r/careerbuddy)
 <!--END_SECTION:activity-->
 
 <br/>
